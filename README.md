@@ -1,2 +1,2 @@
-# bank-customer-clustering-using-pycaret
-[would be updated soon]
+# Bank Customer Clustering Using Pycaret Lybrary
+In this proje
